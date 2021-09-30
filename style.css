@@ -332,6 +332,7 @@ p {
     position: relative;
     z-index: 1;
     overflow: hidden;
+    text-align: left;
 }
 
 #services .service-item:nth-child(1) {
